@@ -65,13 +65,14 @@
 						<section>
 							<form id="contact-form">
 								<div class="fields">
+								  <input type="hidden" name="contact_number">
 									<div class="field">
 										<label for="name">Name</label>
-										<input type="text" name="name" id="name" />
+										<input type="text" name="name" id="user_name" />
 									</div>
 									<div class="field">
 										<label for="email">Email</label>
-										<input type="text" name="email" id="email" />
+										<input type="text" name="email" id="user_email" />
 									</div>
 									<div class="field">
 										<label for="message">Message</label>
@@ -137,7 +138,7 @@
 									// generate a five digit number for the contact_number variable
 									this.contact_number.value = Math.random() * 100000 | 0;
 									// these IDs from the previous steps
-									emailjs.sendForm('contact_service', 'contact_form', this)
+									emailjs.sendForm('demeter_home_page_email', 'template_0t536tm', this)
 											.then(function() {
 													console.log('SUCCESS!');
 											}, function(error) {
