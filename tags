@@ -2196,7 +2196,6 @@ Address	index.html	/^								<h3>Address<\/h3>$/;"	j
 Ae	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Alternate	elements.html	/^											<h3>Alternate<\/h3>$/;"	j
 Alternate	elements.html	/^									<h3>Alternate<\/h3>$/;"	j
-And this is a massive headline	index.html	/^									massive headline<\/a><\/h2>$/;"	i
 AnonymousFunction320c65b40100	assets/js/browser.min.js	/^var browser=function(){"use strict";var e={name:null,version:null,os:null,osVersion:null,touch:n/;"	f	function:browser.e.init
 AnonymousFunction320c65b40200	assets/js/browser.min.js	/^var browser=function(){"use strict";var e={name:null,version:null,os:null,osVersion:null,touch:n/;"	f	function:browser.e.init
 AnonymousFunction320c65b40300	assets/js/browser.min.js	/^var browser=function(){"use strict";var e={name:null,version:null,os:null,osVersion:null,touch:n/;"	f	function:browser.e.init
@@ -2698,11 +2697,10 @@ AnonymousFunctiond255fc430f00	assets/js/main.js	/^						leave: function() {$/;"	
 AnonymousFunctiond255fc431000	assets/js/main.js	/^				breakpoints.on('<=small', function() {$/;"	f
 AnonymousFunctiond255fc431100	assets/js/main.js	/^						enter: function() {$/;"	f
 AnonymousFunctiond255fc431200	assets/js/main.js	/^						leave: function() {$/;"	f
-Ante mattis interdum dolor	index.html	/^										interdum dolor<\/a><\/h2>$/;"	i
-Augue lorem primis vestibulum	index.html	/^										primis vestibulum<\/a><\/h2>$/;"	i
 B	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Blockquote	elements.html	/^									<h2>Blockquote<\/h2>$/;"	i
 Box	elements.html	/^									<h2>Box<\/h2>$/;"	i
+Bring your ideas to life	generic.html	/^										to life<\/a><\/h2>$/;"	i
 Bt	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Buttons	elements.html	/^									<h2>Buttons<\/h2>$/;"	i
 Ce	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -2731,7 +2729,6 @@ Lists	elements.html	/^									<h2>Lists<\/h2>$/;"	i
 M	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Me	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Ne	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
-Odio magna sed consectetur	index.html	/^										sed consectetur<\/a><\/h2>$/;"	i
 Oe	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Ordered	elements.html	/^											<h3>Ordered<\/h3>$/;"	j
 P	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
@@ -2740,20 +2737,18 @@ Phone	elements.html	/^								<h3>Phone<\/h3>$/;"	j
 Phone	generic.html	/^								<h3>Phone<\/h3>$/;"	j
 Phone	index.html	/^								<h3>Phone<\/h3>$/;"	j
 Preformatted	elements.html	/^									<h2>Preformatted<\/h2>$/;"	i
-Primis eget imperdiet lorem	index.html	/^										imperdiet lorem<\/a><\/h2>$/;"	i
+Primis eget imperdiet lorem	generic.html	/^										imperdiet lorem<\/a><\/h2>$/;"	i
 Re	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Se	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
-Sed magna ipsum faucibus	index.html	/^										ipsum faucibus<\/a><\/h2>$/;"	i
 Social	elements.html	/^								<h3>Social<\/h3>$/;"	j
 Social	generic.html	/^								<h3>Social<\/h3>$/;"	j
 Social	index.html	/^								<h3>Social<\/h3>$/;"	j
 T	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	c	class:AnonymousFunction43d59b5018000
 Table	elements.html	/^									<h2>Table<\/h2>$/;"	i
 Te	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
-Tempus sed nulla imperdiet	index.html	/^										nulla imperdiet<\/a><\/h2>$/;"	i
 Text	elements.html	/^									<h2>Text<\/h2>$/;"	i
 This is Demeter	index.html	/^						Demeter<\/h1>$/;"	h
-This is a Generic Page	generic.html	/^									Generic Page<\/h1>$/;"	h
+This is a Generic Page	index.html	/^									Generic Page<\/h1>$/;"	h
 Unordered	elements.html	/^											<h3>Unordered<\/h3>$/;"	j
 V	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 W	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
