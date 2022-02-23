@@ -2882,6 +2882,7 @@ columns	assets/sass/libs/_fixed-grid.scss	/^	@mixin fixed-grid-gutters($columns,
 columns	assets/sass/libs/_fixed-grid.scss	/^	@mixin fixed-grid-gutters-flush($columns, $gutters) {$/;"	z
 columns	assets/sass/libs/_fixed-grid.scss	/^	@mixin fixed-grid-gutters-flush-reset($columns, $gutters, $prev-columns) {$/;"	z
 complete	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f	function:r
+contact-form	index.html	/^							<form id="contact-form">$/;"	I
 content	assets/sass/libs/_mixins.scss	/^@mixin icon($content: false, $category: regular, $where: before) {$/;"	z
 copyright	assets/sass/layout/_footer.scss	/^	#copyright {$/;"	i
 copyright	elements.html	/^					<div id="copyright">$/;"	I
