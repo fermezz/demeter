@@ -2708,6 +2708,8 @@ D	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&
 De	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Default	elements.html	/^									<h3>Default<\/h3>$/;"	j
 Definition	elements.html	/^									<h3>Definition<\/h3>$/;"	j
+Demeter	index.html	/^									<h1>Demeter<\/h1>$/;"	h
+Demeter	index.html	/^						<h1>Demeter<\/h1>$/;"	h
 Ee	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Elements Reference	elements.html	/^									Reference<\/h1>$/;"	h
 Email	elements.html	/^								<h3>Email<\/h3>$/;"	j
@@ -2747,8 +2749,6 @@ T	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&
 Table	elements.html	/^									<h2>Table<\/h2>$/;"	i
 Te	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 Text	elements.html	/^									<h2>Text<\/h2>$/;"	i
-This is Demeter	index.html	/^						Demeter<\/h1>$/;"	h
-This is a Generic Page	index.html	/^									Generic Page<\/h1>$/;"	h
 Unordered	elements.html	/^											<h3>Unordered<\/h3>$/;"	j
 V	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
 W	assets/js/jquery.min.js	/^!function(e,t){"use strict";"object"==typeof module&&"object"==typeof module.exports?module.expo/;"	f
